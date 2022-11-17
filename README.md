@@ -11,6 +11,8 @@ Project Title : E-Commerce Site
 
 project : https://nandinitiyyagura.github.io/E-Commerce-Site/
 
+Demo link : https://youtube.com/shorts/eYZH_tYD2bI?feature=share
+
 
 Problem Statement/Opportunity : This projects aims to develop Ecommerce Site for customers with the goal so that it is very easy to shop your loved things from a extensive number of ecommerce sites available onthe web.You simply require a PC or a laptop and one important payment sending option to shop online.To get to this online shopping system all the customers will need to have a email and passwordto login and proceed your shopping. The login credentials for an ecommerce system areunder high security and nobody will have the capacity to crack it easily. Upon successful loginthe customers can purchase a wide range of things such as mobiles, books, apparel, covid-19essentials, student necessities, tools, etc. can be dispatched using ecommerce system. 
 
